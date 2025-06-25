@@ -1,9 +1,12 @@
 body {
     background-color: #ffffff;
-    margin: 40px;
     color: #000000;
     font-family: Helvetica, sans-serif;
     line-height: 1.6;
+}
+
+section {
+    margin: 0 40px 40px 40px;
 }
 
 header {
@@ -41,6 +44,7 @@ p {
 h1 {
     color: #ffffff;
     font-weight: bold;
+    line-height: 1;
 }
 
 h2 {
@@ -54,7 +58,7 @@ h2 {
     gap: 1.5rem;  
 }
 
-#headshot {
+#Headshot {
     width: 300px;
     height: auto;
     border-radius: 8px;
@@ -92,10 +96,13 @@ blockquote {
     margin: 0;
     padding: 1rem;
     font-style: italic;
+    font-weight: bold;
     display: flex;
     align-items: center;
     flex: 1;
     max-height: 100%;
+    text-align: center;
+    font-size: 1.5rem;
 }
 
 #design {
@@ -114,3 +121,17 @@ blockquote {
     flex: 1;
     margin: 0;
 }
+
+h4 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+    gap: 1.2rem;
+}
+
+
