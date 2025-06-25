@@ -90,6 +90,7 @@ h3 {
     width: 60%;
     height:auto;
     display: block;
+    border-radius: 8px;
 }
 
 blockquote {
