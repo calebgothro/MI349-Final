@@ -68,7 +68,7 @@ h2 {
 #intro-box {
     padding: 0.5rem;
     background-color: #000000;
-    border-radius: 25px;
+    border-radius: 50px;
     flex: 1;
 }
 
@@ -126,6 +126,7 @@ blockquote {
 
 h4 {
     text-align: center;
+    font-size: 1.2rem;
 }
 
 form {
@@ -141,7 +142,9 @@ form button {
     width: 50%;
     padding: 0.75rem 1rem;
     font-size: 1.1rem;
+    font-weight: bold;
     border-radius: 8px;
+    margin: 0 auto;
 }
 
 form input {
