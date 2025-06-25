@@ -183,6 +183,7 @@ main {
 
 .traits {
     font-style: italic;
+    text-align: left;
 }
 
 .resume3 {
@@ -195,6 +196,7 @@ main {
 .xp {
     font-weight: bold;
     font-style: italic;
+    text-align: left;
 }
 
 .info {
@@ -207,4 +209,8 @@ main {
 
 .re-list {
     list-style-position: inside;
+}
+
+.middle {
+    text-align: center;
 }
