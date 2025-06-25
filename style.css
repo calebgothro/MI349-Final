@@ -133,7 +133,6 @@ form {
     display: flex;
     flex-direction: column;
     max-width: 400px;
-    margin: 0 auto;
     gap: 1.2rem;
 }
 
@@ -144,7 +143,6 @@ form button {
     font-size: 1.1rem;
     font-weight: bold;
     border-radius: 8px;
-    margin: 0 auto;
 }
 
 form input {
