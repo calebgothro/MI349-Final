@@ -17,6 +17,7 @@ header {
     background-color: #fca311;
     z-index: 1000;
     border-bottom: 1px solid #000000;
+    font-family: Helvetica, sans-serif;
 
     display: flex;
     justify-content: space-between;
@@ -156,3 +157,34 @@ form label {
     margin-bottom: 0.25rem;
 }
 
+main {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    line-height: 1.2;
+}
+
+.resume1 {
+    margin: 20px;
+}
+
+.top-page {
+    margin:0;
+    text-align: center;
+}
+
+.resume2 {
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.traits {
+    font-style: italic;
+}
+
+.xp {
+    font-style:italic;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
