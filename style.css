@@ -189,12 +189,16 @@ main {
     font-style:italic;
     font-weight: bold;
     text-decoration: underline;
-    text-align: left;
+    text-align: center;
 }
 
 .xp {
     font-weight: bold;
     font-style: italic;
+}
+
+.info {
+    text-align: left;
 }
 
 .resume-bullet {
