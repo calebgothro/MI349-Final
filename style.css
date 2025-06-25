@@ -135,4 +135,7 @@ form {
     gap: 1.2rem;
 }
 
+form button {
+    background-color: #fca311;
+}
 
